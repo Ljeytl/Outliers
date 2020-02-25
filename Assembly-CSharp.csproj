@@ -104,7 +104,13 @@
     <Compile Include="Assets\MaterialUI\Scripts\Toaster.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\ToggleConfig.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\ToggleTextChanger.cs" />
-    <Compile Include="Assets\Scripts\playStartMenu.cs" />
+    <Compile Include="Assets\Scripts\gameManagerMain.cs" />
+    <Compile Include="Assets\Scripts\lives.cs" />
+    <Compile Include="Assets\Scripts\nextScreen.cs" />
+    <Compile Include="Assets\Scripts\oofNoise.cs" />
+    <Compile Include="Assets\Scripts\questionGen.cs" />
+    <Compile Include="Assets\Scripts\score.cs" />
+    <Compile Include="Assets\Scripts\timer.cs" />
     <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Users/adysu/Documents/GitHub/Outliers/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
