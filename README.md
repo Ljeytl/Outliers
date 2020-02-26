@@ -8,3 +8,5 @@ https://github.com/Ljeytl/Outliers a link to the Github. Give me your Github Use
 GitHub
 
 For Source control, I am using Github Desktop. You are welcome to use whatever method you want, but I would highly advice, especially if you are new to Source Control, to use desktop as its very easy to push and pull files and I will add branches as necessary
+
+There is the game design doc above, feel free to edit it with what you see fit
